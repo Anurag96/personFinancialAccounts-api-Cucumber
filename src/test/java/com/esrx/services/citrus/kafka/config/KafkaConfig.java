@@ -4,7 +4,6 @@ import com.consol.citrus.kafka.endpoint.KafkaEndpoint;
 import com.esrx.services.citrus.kafka.EsiKafkaCitrusEndpoints;
 import com.esrx.services.citrus.kafka.EsiKafkaEndpoint;
 import com.esrx.services.citrus.kafka.KafkaCitrusEndpoints;
-import com.esrx.services.config.BeforeTest;
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;

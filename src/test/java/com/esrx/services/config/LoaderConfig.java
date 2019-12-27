@@ -1,10 +1,10 @@
-package com.esrx.services.citrus.kafka.config;
+package com.esrx.services.config;
 
 import com.consol.citrus.context.TestContextFactory;
 import com.consol.citrus.validation.json.JsonTextMessageValidator;
 import com.esrx.services.citrus.kafka.ClearingKafkaConsumer;
 import com.esrx.services.citrus.kafka.EsiKafkaEndpoint;
-import com.esrx.services.config.EndpointConfig;
+import com.esrx.services.citrus.kafka.config.KafkaConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;

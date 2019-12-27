@@ -1,4 +1,4 @@
-package com.esrx.services.config;
+package com.esrx.services.citrus.kafka.config;
 
 import com.consol.citrus.context.TestContext;
 import com.consol.citrus.dsl.design.TestDesigner;
